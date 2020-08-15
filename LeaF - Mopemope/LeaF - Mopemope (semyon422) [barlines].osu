@@ -1,0 +1,90 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 7179
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 16779,26379,35979,45579,50979,60579,70179,79779,89379,98979
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Mopemope
+TitleUnicode:もぺもぺ
+Artist:LeaF
+ArtistUnicode:LeaF
+Creator:semyon422
+Version:barlines
+Source:BMS
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"background.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2380,300,4,2,0,20,1,0
+46180,300,4,2,0,20,1,0
+
+
+[HitObjects]
+64,192,79780,5,0,0:0:0:0:
+320,192,80080,1,0,0:0:0:0:
+64,192,80380,1,0,0:0:0:0:
+320,192,80680,1,0,0:0:0:0:
+64,192,80980,1,0,0:0:0:0:
+320,192,81280,1,0,0:0:0:0:
+64,192,81580,1,0,0:0:0:0:
+320,192,81880,1,0,0:0:0:0:
+64,192,82180,1,0,0:0:0:0:
+320,192,82480,1,0,0:0:0:0:
+64,192,82780,1,0,0:0:0:0:
+320,192,83080,1,0,0:0:0:0:
+64,192,83380,1,0,0:0:0:0:
+320,192,83680,1,0,0:0:0:0:
+64,192,83980,1,0,0:0:0:0:
+320,192,84280,1,0,0:0:0:0:
+64,192,84580,1,0,0:0:0:0:
+320,192,84880,1,0,0:0:0:0:
+64,192,85180,1,0,0:0:0:0:
+320,192,85480,1,0,0:0:0:0:
+64,192,85780,1,0,0:0:0:0:
+320,192,86080,1,0,0:0:0:0:
+64,192,86380,1,0,0:0:0:0:
+320,192,86680,1,0,0:0:0:0:
+64,192,86980,1,0,0:0:0:0:
+320,192,87280,1,0,0:0:0:0:
+64,192,87580,1,0,0:0:0:0:
+320,192,87880,1,0,0:0:0:0:
+64,192,88180,1,0,0:0:0:0:
+320,192,88480,1,0,0:0:0:0:
+64,192,88780,1,0,0:0:0:0:
+320,192,89080,1,0,0:0:0:0:

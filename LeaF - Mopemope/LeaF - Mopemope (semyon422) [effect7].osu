@@ -1,0 +1,89 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 7179
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 16779,26379,35979,45579,50979,60579,70179,79779,89379,98979
+DistanceSpacing: 0.8
+BeatDivisor: 16
+GridSize: 32
+TimelineZoom: 2.7
+
+[Metadata]
+Title:Mopemope
+TitleUnicode:もぺもぺ
+Artist:LeaF
+ArtistUnicode:LeaF
+Creator:semyon422
+Version:effect7
+Source:BMS
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"background.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2380,300,4,2,0,20,1,0
+46180,300,4,2,0,20,1,0
+
+
+[HitObjects]
+448,192,60580,128,0,61161:0:0:0:0:
+320,192,61180,128,0,61761:0:0:0:0:
+192,192,61780,128,0,62361:0:0:0:0:
+64,192,62380,128,0,62961:0:0:0:0:
+192,192,62980,128,0,63561:0:0:0:0:
+320,192,63580,128,0,64161:0:0:0:0:
+448,192,64180,128,0,64761:0:0:0:0:
+64,192,64780,128,0,65361:0:0:0:0:
+320,192,65380,128,0,65961:0:0:0:0:
+64,192,65980,128,0,66561:0:0:0:0:
+192,192,66580,128,0,67161:0:0:0:0:
+448,192,67180,128,0,67761:0:0:0:0:
+320,192,67780,128,0,68361:0:0:0:0:
+192,192,68380,128,0,68961:0:0:0:0:
+64,192,68980,128,0,69561:0:0:0:0:
+320,192,69580,128,0,70161:0:0:0:0:
+448,192,70180,128,0,70761:0:0:0:0:
+320,192,70780,128,0,71361:0:0:0:0:
+192,192,71380,128,0,71961:0:0:0:0:
+64,192,71980,128,0,72561:0:0:0:0:
+192,192,72580,128,0,73161:0:0:0:0:
+320,192,73180,128,0,73761:0:0:0:0:
+448,192,73780,128,0,74361:0:0:0:0:
+192,192,74380,128,0,74961:0:0:0:0:
+320,192,74980,128,0,75561:0:0:0:0:
+64,192,75580,128,0,76161:0:0:0:0:
+192,192,76180,128,0,76761:0:0:0:0:
+448,192,76780,128,0,77361:0:0:0:0:
+320,192,77380,128,0,77961:0:0:0:0:
+192,192,77980,128,0,78561:0:0:0:0:
+64,192,78580,128,0,79161:0:0:0:0:

@@ -1,0 +1,40 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 2380
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 16780,26380,35980,45580,46180,50980,60580,70180,79780,89380,98980
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 0.6999999
+
+[Metadata]
+Title:Mopemope
+TitleUnicode:もぺもぺ
+Artist:LeaF
+ArtistUnicode:LeaF
+Creator:semyon422
+Version:mopemope
+Source:BMS
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
